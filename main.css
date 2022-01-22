@@ -32,3 +32,6 @@ a {
   color: white;
   text-align: center;
 }
+a:hover {
+  text-decoration: underline;
+}
