@@ -2,7 +2,6 @@
   border-radius: 100%;
   max-width: 70%;
   height: auto;
-  filter: grayscale(100%);
 }
 .title {
   color: grey;
