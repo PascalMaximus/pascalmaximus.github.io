@@ -1,4 +1,3 @@
 ```
-Source of my personal website.
-#nojs
+An ongoing attempt to make a personal website & a blog !
 ```
