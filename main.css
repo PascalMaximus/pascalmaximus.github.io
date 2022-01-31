@@ -9,6 +9,8 @@
   text-align: center;
 }
 .foot {
+  margin: 0;
+  padding: 0;
   color: grey;
   font-size: 10px;
   text-align: center;
@@ -19,7 +21,6 @@
   text-align: center;
 }
 body {
-  padding: 25px;
   background-color: #121212;
   color: white;
   font-family: 'Comic Neue';
