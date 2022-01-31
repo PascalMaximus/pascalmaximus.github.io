@@ -4,7 +4,7 @@
   height: auto;
 }
 .title {
-  color: grey;
+  color: #89DCEB;
   font-size: 20px;
   text-align: center;
 }
@@ -12,27 +12,40 @@
   padding: 10px;
   margin: 1px;
 }
+
 .icons {
   margin: 10px;
-  padding:10px;
+  padding: 10px;
+}
+.tg {
+  color: #96CDFB;
+}
+.gpg {
+  color:#B5E8E0;
+}
+.lab {
+  color:#F2CDCD;
+}
+.mail {
+  color:#C9CBFF;
 }
 footer {
   margin: 0;
   padding: 0;
-  color: grey;
+  color: #DDB6F2;
   font-size: 10px;
   text-align: center;
 }
 .head {
-  color: white;
+  color: #D9E0EE;
   font-size: 50px;
   text-align: center;
 }
 body {
   margin: auto;
   padding: auto;
-  background-color: #121212;
-  color: white;
+  background-color: #1A1826;
+  color: #D9E0EE;
   font-family: 'Comic Neue';
   font-size: 22px;
   text-align: center;
@@ -40,9 +53,10 @@ body {
 a {
   text-decoration: none;
   font-size: 40px;
-  color: white;
+  color: #D9E0EE;
   text-align: center;
 }
 a:hover {
   text-decoration: underline;
+  color: #F8BD96;
 }
