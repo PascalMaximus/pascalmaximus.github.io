@@ -29,6 +29,8 @@ footer {
   text-align: center;
 }
 body {
+  margin: auto;
+  padding: auto;
   background-color: #121212;
   color: white;
   font-family: 'Comic Neue';
