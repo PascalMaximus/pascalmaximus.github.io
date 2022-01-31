@@ -1,8 +1,7 @@
-
 body {
     background-color: black;
     color: white;
-    font-family: 'Comic Neue';
+    font-family: monospace;
     font-size: 22px;
     text-align: center;
 }
