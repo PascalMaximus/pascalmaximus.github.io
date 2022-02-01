@@ -1,11 +1,10 @@
 body {
-  color: white;
-  text-align: center;
-  background-color: grey;
+  background-color: black;
+  color: gray;
   font-size: 20px;
+  text-align: center;
 }
 div {
-  padding: 10px;
+  padding: inherit;
   margin: auto;
-  width: auto;
 }
