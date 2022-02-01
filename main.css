@@ -5,6 +5,6 @@ body {
   text-align: center;
 }
 div {
-  padding: 30px;
-  margin: 10px;
+  padding: inherit;
+  margin: auto;
 }
