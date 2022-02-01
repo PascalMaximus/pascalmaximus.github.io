@@ -5,9 +5,7 @@ body {
   text-align: center;
 }
 div {
-  padding: inherit;
+  padding: 10px;
   margin: auto;
-}
-tt {
-  width: auto;
+  width: 50%;
 }
