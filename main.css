@@ -8,3 +8,6 @@ div {
   padding: inherit;
   margin: auto;
 }
+tt {
+  width: auto;
+}
