@@ -10,21 +10,15 @@ div {
   margin: 25px;
 }
 @media (prefers-color-scheme: light) {
-    body {
-        color:#444;
-        background:#EEE;
-    }
+  body {
+    color: black;
+    background-color: white;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
-        background-color: #121212;
-        color: #e6dbdb;
-    }
-    a {
-        color: #80c3ff;
-    }
-    a:visited {
-        color: #c58dec;
-    }
+  body {
+    background-color: black;
+    color: white;
+  }
 }
