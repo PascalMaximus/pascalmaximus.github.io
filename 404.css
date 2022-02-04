@@ -5,10 +5,12 @@
 .lost {
   /*border-radius: 100%;*/
   width: 70%;
-  border: 1px solid #ddd; /* Gray border */
-  border-radius: 4px;  /* Rounded border */
-  padding: 5px; /* Some padding */
-  width: 150px; /* Set a small width */
+  border: 1px solid #ddd;
+  /* Gray border*/
+  border-radius: 4px;
+  /* Rounded border */
+  padding: 5px;
+  /* Some padding */
 }
 
 /* Add a hover effect (blue shadow) */
@@ -22,4 +24,17 @@ body {
   font-family: 'Comic Neue';
   font-size: 22px;
   text-align: center;
+}
+@media (prefers-color-scheme: light) {
+  body {
+    color: black;
+    background-color: white;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: black;
+    color: white;
+  }
 }
