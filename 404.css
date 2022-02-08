@@ -19,22 +19,9 @@ img:hover {
 }
 body {
   padding: 25px;
-  background-color: #121212;
-  color: black;
+  background-color: black;
+  color: white;
   font-family: 'Comic Neue';
   font-size: 22px;
   text-align: center;
-}
-@media (prefers-color-scheme: light) {
-  body {
-    color: black;
-    background-color: white;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: black;
-    color: white;
-  }
 }
