@@ -1,4 +1,5 @@
 ```
 An ongoing attempt to make a personal website.
-#todo: move to codeberg
+moved to codeberg
+codeberg.org/s4njux/pages
 ```
